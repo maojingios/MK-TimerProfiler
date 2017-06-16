@@ -19,7 +19,7 @@
 
 > 如何启动TimerProfiler，就不赘述。正常操作后，应该是如下界面：
 
-![](/Users/gw/Desktop/image-1.png)
+![](https://github.com/maojingios/MK-TimerProfiler/blob/master/images/image-1.png)
 
 * 1.为启动、关闭和暂停按钮。
 * 2.启动后，请将Separate by Thread、Invert CallTree、Hide System Libraries三个选项勾上。
@@ -51,7 +51,7 @@
 
 >再启动timerProfiler检测下，结果如下图：
 
-![](/Users/gw/Desktop/99.png)
+![](https://github.com/maojingios/MK-TimerProfiler/blob/master/images/image-4.png)
 
 * 工程跑起来能立刻看见按钮显示出来；
 * 再结合上面截图，主线程耗时比为20.9%远低于之前的92.5%。
